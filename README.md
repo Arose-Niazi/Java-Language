@@ -25,3 +25,10 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 			Menu driven program of all these above programs using methods.
 		- Sixth.java <br>
 			Menu driven program of all above programs called using methods from their own classes.
+	- 9 FEB 2019
+		- Circle.java <br>
+			Cricle class, gets and sets radius. Gets area and perimeter. Displays circle info.
+		- Rectangle.java <br>
+			Rectangle class, gets, sets length and width. Gets area and perimeter. Displays rectangle  info.
+		- Driver.java <br>
+			Menu driven program, uses rectangle and cricle classes for their functions, gets input from user. 

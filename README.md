@@ -25,7 +25,7 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 			Menu driven program of all these above programs using methods.
 		- Sixth.java <br>
 			Menu driven program of all above programs called using methods from their own classes.
-	- 9 FEB 2019
+	- 12 FEB 2019
 		- Box.java <br>
 			Box class, gets, sets length, height and width. Shows Volums. Displays box info.
 		- Circle.java <br>
@@ -33,4 +33,9 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 		- Rectangle.java <br>
 			Rectangle class, gets, sets length and width. Shows area and perimeter. Displays rectangle  info.
 		- Driver.java <br>
-			Menu driven program, uses rectangle and cricle classes for their functions, gets input from user. 
+			Menu driven program, uses box, rectangle and cricle classes for their functions, gets input from user.
+	- 14 FEB 2019
+		- QuadraticRoots.java <br>
+			QuadraticRoots class, gets, sets A, B and C. Displays quadratic equation info.
+		- Driver.java <br>	
+			Menu driven program, uses QuadraticRoots classes for their functions, gets input from user. 		

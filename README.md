@@ -39,7 +39,7 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 			QuadraticRoots class, gets, sets A, B and C. Displays quadratic equation info.
 		- Driver.java <br>	
 			Menu driven program, uses QuadraticRoots classes for their functions, gets input from user. 
-- Lab Work
+- Lecture Work
 	- 18 FEB 2019
 		- Box.java
 		- Account.java

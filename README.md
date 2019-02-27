@@ -48,6 +48,14 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 	- 21 FEB 2019
 		- Time.java 
 		- Driver.java	
+	- 27 FEB 2019
+		- Date.java 
+		- DriverDate.java
+		- Distance.java 
+		- DriverDistance.java		
+		- Fraction.java 
+		- DriverFraction.java	
+		- Date.java
 - Lecture Work
 	- 18 FEB 2019
 		- Box.java

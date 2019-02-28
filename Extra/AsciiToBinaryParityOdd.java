@@ -20,27 +20,28 @@ public class AsciiToBinaryParityOdd {
 		for (byte b : infoBin) 
 		{
             System.out.print(((checkParity((char) b))? "0":"1")
-                   + Integer.toBinaryString(b) 
-					+ "  ");
-        }
-				
-    }
+							+ Integer.toBinaryString(b) 
+							+ "  ");
+		}
+	}
 	
 	public static boolean checkParity(char myChar) 
 	{
-	  int i;
-	  int parity = 0;
+		int i;
+		int parity = 0;
 
-	  while(myChar != 0){    
-		parity += (myChar&1);   
-		myChar = (char)  (myChar>>1);     
-	  }
+		while(myChar != 0)
+		{    
+			parity += (myChar&1);   
+			myChar = (char)  (myChar>>1);     
+		}
 	  
-	  if(parity % 2 != 0){ 
-		return true;
-	  }
-	  else { 
-		return false;
-	  }
+		if(parity % 2 != 0){ 
+			return true;
+		}
+		else 
+		{ 
+			return false;
+		}
 	}
 }

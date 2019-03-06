@@ -63,6 +63,18 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 		- Employee.java 
 		- EmpTest.java
 		- Driver.java
+	- 6 MAR 2019
+		- IntegerArrayTest.java 
+		- StringArrayTest.java
+		- Student.java
+		- StudentTest.java
+		- PerfectStudent.java
+		- PerfectStudentTest.java
+		- BankAccount.java 
+		- BankAccountTest.java	
+		- Account.java 
+		- AccountRunner.java
+		
 - Lecture Work
 	- 18 FEB 2019
 		- Box.java

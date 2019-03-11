@@ -29,12 +29,16 @@ class PerfectStudentTest
 		
 		alist.add(new PerfectStudent());
 		alist.add(new PerfectStudent("Mufti",courses,quizmarks,assignmentmarks));
+
+		alist.get(1).registerCourse("C++");
+		alist.get(1).registerCourse("C#");
+		alist.get(1).dropCourse("OOP");
+		
 		for(PerfectStudent i: alist)
 		{
 			i.printinfo();
 			System.out.println("Passed Quizzes: "+i.getTotalPassedQuizzes());
 			System.out.println("\n");
 		}
-		
 	}
 }

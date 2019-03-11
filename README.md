@@ -83,5 +83,10 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 	- 18 FEB 2019
 		- Account.java <br>
 		- Driver.java <br>	
+	- 11 MAR 2019 - Quiz & Assignment
+		- Date.java
+		- Medicine.java
+		- Billing.java
+		- Driver.java
 - Extra
 	- AsciiToBinaryParityOdd.java

@@ -70,4 +70,15 @@ class PerfectStudent
 		}
 		return counter;
 	}
+	
+	public void registerCourse(String course)
+	{
+		courses.add(course);
+	}
+	
+	public void dropCourse(String course)
+	{
+		if(courses.contains(course))
+			courses.remove(course);
+	}
 }

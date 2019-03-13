@@ -4,6 +4,7 @@ public class City {
 	private int cityVoters;
 	private boolean isCapital;
 	private static int maxPopulation;
+	private static int totalCities;
 
 	public City(String cityName, int cityPopulation, int cityVoters, boolean isCapital) 
 	{
@@ -22,6 +23,16 @@ public class City {
 	public static int getMaxPopulation()
 	{
 		return maxPopulation;
+	}
+	
+	public static int getTotalCities()
+	{
+		return totalCities;
+	}
+	
+	public static void setTotalCities(int cities)
+	{
+		totalCities=cities;
 	}
 
 	public String toString()

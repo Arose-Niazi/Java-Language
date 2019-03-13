@@ -46,6 +46,7 @@ public class Driver {
 					{
 						cities.remove(x);
 						System.out.println("City has been removed!");
+						City.setTotalCities(City.getTotalCities()-1);
 						break;
 					}
 				}

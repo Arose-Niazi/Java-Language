@@ -77,6 +77,10 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 	- 13 MAR 2019 - Assignmnet
 		- City.java
 		- Driver.java
+	- 14 MAR 2019 - Sessional
+		- Location.java
+		- Building.java
+		- Test.java
 		
 - Lecture Work
 	- 18 FEB 2019

@@ -81,6 +81,16 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 		- Location.java
 		- Building.java
 		- Test.java
+	- 28 MAR 2019
+		- Employee.java
+		- PermanentEmployee.java
+		- HourlyEmployee.java
+		- EmployeeDriver.java
+		
+		- BankAccount.java
+		- CurrentAccount.java
+		- SavingsAccount.java
+		- BankDriver.java
 		
 - Lecture Work
 	- 18 FEB 2019
@@ -95,5 +105,8 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 		- Medicine.java
 		- Billing.java
 		- Driver.java
+	- 18 MAR 2019 - Sessional 1
+		- Point.java
+		- Line.java
 - Extra
 	- AsciiToBinaryParityOdd.java

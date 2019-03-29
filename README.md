@@ -101,10 +101,12 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 		- Account.java <br>
 		- Driver.java <br>	
 	- 11 MAR 2019 - Quiz & Assignment
-		- Date.java
-		- Medicine.java
-		- Billing.java
-		- Driver.java
+		- Date.java - Quiz
+		- Medicine.java - Quiz
+		- Billing.java - Quiz
+		- Driver.java - Quiz
+		- Stack.java - Assignment
+		- StackRunner.java - Assignment
 	- 18 MAR 2019 - Sessional 1
 		- Point.java
 		- Line.java

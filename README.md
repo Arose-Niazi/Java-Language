@@ -91,6 +91,17 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 		- CurrentAccount.java
 		- SavingsAccount.java
 		- BankDriver.java
+	- 3 APR 2019
+		- A.java
+		- B.java
+		- C.java
+		- ABCDriver.java
+		
+		- Employee.java
+		- HourlyEmployee.java
+		- ComEmployee.java
+		- BasePlusComE.java
+		- EmployeeDriver.java
 		
 - Lecture Work
 	- 18 FEB 2019

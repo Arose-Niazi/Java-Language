@@ -9,10 +9,10 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 
 ## Files
 - Lab Work
-	- 6 FEB 2019
+	- 19-02-06
 		- First.java <br>
 			Basic printing of information, using different print statements as required by instructor (Shahbaz Akhter Abid).
-	- 7 FEB 2019
+	- 19-02-07
 		- First.java <br>
 			Take a string input and print it.
 		- Second.java <br>
@@ -25,7 +25,7 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 			Menu driven program of all these above programs using methods.
 		- Sixth.java <br>
 			Menu driven program of all above programs called using methods from their own classes.
-	- 12 FEB 2019
+	- 19-02-13
 		- Box.java <br>
 			Box class, gets, sets length, height and width. Shows Volums. Displays box info.
 		- Circle.java <br>
@@ -34,21 +34,21 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 			Rectangle class, gets, sets length and width. Shows area and perimeter. Displays rectangle  info.
 		- Driver.java <br>
 			Menu driven program, uses box, rectangle and cricle classes for their functions, gets input from user.
-	- 14 FEB 2019
+	- 19-02-14
 		- QuadraticRoots.java <br>
 			QuadraticRoots class, gets, sets A, B and C. Displays quadratic equation info.
 		- Driver.java <br>	
 			Menu driven program, uses QuadraticRoots classes for their functions, gets input from user. 
-	- 20 FEB 2019
+	- 19-02-20
 		- Account.java 
 		- AccountRunner.java
 		- Driver.java	
 		- Cylinder.java
 		- DriverCylinder.java
-	- 21 FEB 2019
+	- 19-02-21
 		- Time.java 
 		- Driver.java	
-	- 27 FEB 2019
+	- 19-02-27
 		- Date.java 
 		- DriverDate.java
 		- Distance.java 
@@ -57,13 +57,13 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 		- DriverFraction.java	
 		- Date.java
 		- Driver.java
-	- 28 FEB 2019
+	- 19-02-28
 		- Student.java 
 		- DriverStudent.java
 		- Employee.java 
 		- EmpTest.java
 		- Driver.java
-	- 6 MAR 2019
+	- 19-03-06
 		- IntegerArrayTest.java 
 		- StringArrayTest.java
 		- Student.java
@@ -74,14 +74,14 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 		- BankAccountTest.java	
 		- Account.java 
 		- AccountRunner.java
-	- 13 MAR 2019 - Assignmnet
+	- 19-03-13 - Assignmnet
 		- City.java
 		- Driver.java
-	- 14 MAR 2019 - Sessional
+	- 19-03-14 - Sessional
 		- Location.java
 		- Building.java
 		- Test.java
-	- 28 MAR 2019
+	- 19-03-28
 		- Employee.java
 		- PermanentEmployee.java
 		- HourlyEmployee.java
@@ -91,7 +91,7 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 		- CurrentAccount.java
 		- SavingsAccount.java
 		- BankDriver.java
-	- 3 APR 2019
+	- 19-04-03
 		- A.java
 		- B.java
 		- C.java
@@ -102,6 +102,14 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 		- ComEmployee.java
 		- BasePlusComE.java
 		- EmployeeDriver.java
+	- 19-04-04
+		- Person.java
+		- Patient.java
+		- Doctor.java
+		- Surgeon.java
+		- GPhysician.java
+		- Billing.java
+		- Driver.java
 		
 - Lecture Work
 	- 18 FEB 2019

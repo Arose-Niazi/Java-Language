@@ -86,7 +86,6 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 		- PermanentEmployee.java
 		- HourlyEmployee.java
 		- EmployeeDriver.java
-		
 		- BankAccount.java
 		- CurrentAccount.java
 		- SavingsAccount.java
@@ -96,7 +95,6 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 		- B.java
 		- C.java
 		- ABCDriver.java
-		
 		- Employee.java
 		- HourlyEmployee.java
 		- ComEmployee.java

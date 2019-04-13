@@ -1,5 +1,3 @@
-package lab2;
-
 public class Patient extends Person {
     private int pID;
     private String pType;

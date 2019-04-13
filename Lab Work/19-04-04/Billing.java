@@ -1,5 +1,3 @@
-package lab2;
-
 public class Billing {
     private int billID;
     private Doctor docInfo;

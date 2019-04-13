@@ -1,5 +1,3 @@
-package lab2;
-
 public class Surgeon extends Doctor {
     private String sSpecialization;
     private double sAllowance;

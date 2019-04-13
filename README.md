@@ -10,35 +10,22 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 ## Files
 - Lab Work
 	- 19-02-06
-		- First.java <br>
-			Basic printing of information, using different print statements as required by instructor (Shahbaz Akhter Abid).
+		- First.java
 	- 19-02-07
-		- First.java <br>
-			Take a string input and print it.
-		- Second.java <br>
-			Take a number and print it in english, 0-9.
-		- Third.java <br>
-			Take five number and print the biggest.
-		- Fourth.java <br>
-			10 years profit of 5% on 1000 as basic amount.
-		- Fifth.java <br>
-			Menu driven program of all these above programs using methods.
-		- Sixth.java <br>
-			Menu driven program of all above programs called using methods from their own classes.
+		- First.java
+		- Second.java
+		- Third.java
+		- Fourth.java
+		- Fifth.java
+		- Sixth.java
 	- 19-02-13
-		- Box.java <br>
-			Box class, gets, sets length, height and width. Shows Volums. Displays box info.
-		- Circle.java <br>
-			Cricle class, gets and sets radius. Shows area and perimeter. Displays circle info.
-		- Rectangle.java <br>
-			Rectangle class, gets, sets length and width. Shows area and perimeter. Displays rectangle  info.
-		- Driver.java <br>
-			Menu driven program, uses box, rectangle and cricle classes for their functions, gets input from user.
+		- Box.java
+		- Circle.java
+		- Rectangle.java
+		- Driver.java
 	- 19-02-14
-		- QuadraticRoots.java <br>
-			QuadraticRoots class, gets, sets A, B and C. Displays quadratic equation info.
-		- Driver.java <br>	
-			Menu driven program, uses QuadraticRoots classes for their functions, gets input from user. 
+		- QuadraticRoots.java
+		- Driver.java 
 	- 19-02-20
 		- Account.java 
 		- AccountRunner.java

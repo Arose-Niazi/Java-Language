@@ -1,5 +1,3 @@
-package LAB;
-
 public class ComEmployee extends  Employee{
     private double sales;
     private double rate;

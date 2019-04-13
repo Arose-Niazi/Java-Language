@@ -1,5 +1,3 @@
-package LAB;
-
 public class BasePlusComE extends ComEmployee {
     private double baseSalary;
 

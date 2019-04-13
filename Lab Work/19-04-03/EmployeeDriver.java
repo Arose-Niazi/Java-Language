@@ -1,5 +1,3 @@
-package LAB;
-
 public class EmployeeDriver {
     public static void main(String args[]) {
         BasePlusComE a = new BasePlusComE("Ali", 23, 1, 50.0, 1500.0, 35000.0);

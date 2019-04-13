@@ -1,5 +1,3 @@
-package LAB;
-
 public class HourlyEmployee extends Employee {
     private double hoursWorked;
     private double ratePerHour;

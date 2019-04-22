@@ -110,6 +110,14 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 		- Square.java
 		- Cube.java
 		- Sphere.java
+	- 19-04-17 - Assignment
+		- Payable.java
+		- Doctor.java
+		- Patient.java
+		- Medcine.java
+		- MedicalTest.java
+		- Billing.java
+		- Driver.java
 - Lecture Work
 	- 18 FEB 2019
 		- Box.java

@@ -124,6 +124,16 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 		- Batsman.java
 		- Bowler.java
 		- Driver.java
+	- 19-04-25 - Assignment
+		- GeomatricObject.java
+		- Circle.java
+		- Resizeable.java
+		- ResizeableCircle.java
+		- Driver.java
+	- 19-05-08
+		- LoginSystem.java
+		- Driver.java
+		
 - Lecture Work
 	- 18 FEB 2019
 		- Box.java

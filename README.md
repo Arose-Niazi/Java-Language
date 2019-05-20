@@ -180,5 +180,11 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 	- 14 MAY 2019
 		- TextStyleFrame.java
 		- Driver.java
+	- 20 MAY 2019 - Assignment
+		- ClickFrame.java
+		- ClickButton.java
+	- 20 MAY 2019 - Quiz
+		- CurrencyFrame.java
+		- Driver.java	
 - Extra
 	- AsciiToBinaryParityOdd.java

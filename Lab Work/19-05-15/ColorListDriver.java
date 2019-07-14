@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class Driver {
+public class ColorListDriver {
 
 	public static void main(String args[])
 	{

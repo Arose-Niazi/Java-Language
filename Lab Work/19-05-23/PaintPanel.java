@@ -26,8 +26,8 @@ public class PaintPanel extends JPanel {
     @Override
     protected void paintComponent(Graphics g) {
         super.paintComponent(g);
-       for(int i=0; i<points.size(); i++)
-       {
+		for(int i=0; i<points.size(); i++)
+		{
             g.fillOval(points.get(i).x, points.get(i).y, 4, 4);
             g.setColor(color.get(i));
         }

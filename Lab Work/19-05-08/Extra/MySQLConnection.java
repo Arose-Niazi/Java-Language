@@ -14,7 +14,7 @@ public class MySQLConnection {
 	public MySQLConnection()
 	{
 		try {	
-			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/world","Arose","root");
+			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/world","root","");
 		}
 		catch(Exception e){ System.out.println(e);} 
 	}
@@ -26,7 +26,7 @@ public class MySQLConnection {
 		}
 		catch(SQLException e)
 		{
-			 System.out.println(e);
+			System.out.println(e);
 		}
 	}
 	
